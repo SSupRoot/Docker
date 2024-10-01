@@ -2,10 +2,9 @@
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt"%>
 <html>
 <body>
-    <h2>It's working on Tomcat server(9.0.65) 240926</h2>
-    <hr>
-    <hr>
-    <h1>update241002</h1>
+    <h2>It's working on Tomcat server(9.0.65) 241002</h2>
+    <hr> 
+    <h1>update241002 재수정</h1>
     <h1>Hi, there (updated by dowon)</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
     <h3>Version: 3.2.5</h3>
